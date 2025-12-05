@@ -1,2 +1,2 @@
 # NOtesApp
-<h1>1 Application for your Daily Task</h1>
+<h2>1 Application for your Daily Task</h2>
